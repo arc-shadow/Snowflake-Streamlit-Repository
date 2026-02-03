@@ -16,7 +16,7 @@ The following applications are hosted securely on **Snowflake Streamlit**
 5. **Document Processor**
 
 
-Detailed app Ddescriptions: [Apps.md](Apps.md)
+Detailed app Descriptions: [Apps.md](Apps.md)
 Access requires **Snowflake login credentials**, **Shared in access guide**.
 
 Once logged in, apps are available under **Streamlit Apps**, **Links have been shared separately**
