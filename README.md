@@ -1,4 +1,4 @@
-# Snowflakw Streamlit Application Portfolio
+# Snowflake Streamlit Application Portfolio
 
 This repository snowcases my **Snowflake Streamlit Application** developed for AI, Data Analytics and Automation use cases.
 
