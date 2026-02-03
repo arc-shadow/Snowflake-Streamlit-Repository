@@ -17,7 +17,7 @@ The following applications are hosted securely on **Snowflake Streamlit**
 
 
 Detailed app Descriptions: [Apps.md](Apps.md)
-Access requires **Snowflake login credentials**, **Shared in access guide**.
+Access requires **Snowflake login credentials**, **Shared in access guide [Access_Guide](Access_Guide.md)**.
 
 Once logged in, apps are available under **Streamlit Apps**, **Links have been shared separately**
 
