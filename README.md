@@ -12,7 +12,7 @@ The following applications are hosted securely on **Snowflake Streamlit**
 1. **AI Powered Resume Screener** a powerful ATS tool.
 2. **AI Chatbot & Messenger with Interactive Homepage**
 3. **Data Profiling Tool**
-4.**SQL Querymaster**
+4. **SQL Querymaster**
 5. **Document Processor**
 
 
@@ -21,7 +21,7 @@ Access requires **Snowflake login credentials**, **Shared in access guide**.
 
 Once logged in, apps are available under **Streamlit Apps**, **Links have been shared separately**
 
-## Tech Stack a
+## Tech Stack 
 -Snowflake
 -SQL
 -Python
